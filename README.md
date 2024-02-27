@@ -1,0 +1,2 @@
+# transparency_for_browserplugin
+浏览器透明度修改插件
